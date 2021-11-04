@@ -211,7 +211,7 @@ type DoublyLinkedList<type>::removeNode(type value){
 
 template <class type>
 type DoublyLinkedList<type>::peek(){
-  return back;
+  return back->data;
 }
 
 template <class type>

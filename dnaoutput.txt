@@ -1,20 +1,4 @@
-Sequence: ATTCGAT
-Complement: TAAGCTA
-Reverse complement: ATCGAAT
-
-Sequence: TTCAGCTAATGC
-Complement: AAGTCGATTACG
-Reverse complement: GCATTAGCTGAA
-
-Sequence: 
-Complement: Invalid DNA sequence.
-Reverse complement: Invalid DNA sequence.
-
-Sequence: GTACGGACTA
-Complement: CATGCCTGAT
-Reverse complement: TAGTCCGTAC
-
-Sequence: GTFCAA
+Sequence: none of this is dna what will it say
 Complement: Invalid DNA sequence.
 Reverse complement: Invalid DNA sequence.
 
