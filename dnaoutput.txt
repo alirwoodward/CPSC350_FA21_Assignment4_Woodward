@@ -1,4 +1,0 @@
-Sequence: none of this is dna what will it say
-Complement: Invalid DNA sequence.
-Reverse complement: Invalid DNA sequence.
-

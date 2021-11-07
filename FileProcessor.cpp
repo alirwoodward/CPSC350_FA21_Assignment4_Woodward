@@ -1,8 +1,8 @@
 // Ali Woodward
 // 2385718
-// alwoodward@chapman.edu
-// CPSC 350-03
-// Assignment 2
+// alwoodwadr@chapman.edu
+// CPSC 350 Section 03
+// Assignment	4- Fun With Stacks
 
 // FileProcessor.cpp
 // This file contains a constructor, destructor, and a method named processFile that takes in the names of input and output files
@@ -16,12 +16,12 @@ FileProcessor::FileProcessor(){
   //default constructor body - empty
 }
 
-// deconstructor
+// destructor
 FileProcessor::~FileProcessor(){
   //deconstuctor - empty
 }
 
-//processFile method takes in an input file, opens the file for reading, reads its contents, then translates it and prints it to the output file
+//processFile method takes in an input file, opens the file for reading, reads its contents and send each line of DNA from the file to the appropriate DNAComplement methods and writes the complement and reverse complement to the output file dnaoutput.txt
 void FileProcessor::processFile(string inputFile){
   //open file for writing
 

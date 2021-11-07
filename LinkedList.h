@@ -1,3 +1,15 @@
+// Ali Woodward
+// 2385718
+// alwoodwadr@chapman.edu
+// CPSC 350 Section 03
+// Assignment	4- Fun With Stacks
+
+
+//LinkedList.h is a file that contains all working functions of a linked list
+//contains class ListNode to facilitate list nodes in the linked list and contains class DoublyLinkedList to facilitate linked list
+
+//DoublylinkedList class contains methods: insertFront, insertBack, removeFront, removeBack, removeNode, find, isEmpty, getSize, and peek.
+
 #ifndef LINKDELIST_H
 #define LINKEDLIST_H
 

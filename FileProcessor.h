@@ -1,11 +1,11 @@
 // Ali Woodward
 // 2385718
-// alwoodward@chapman.edu
-// CPSC 350-03
-// Assignment 2
+// alwoodwadr@chapman.edu
+// CPSC 350 Section 03
+// Assignment	4- Fun With Stacks
 
 // FileProcessor.h
-// This is a header file for FileProcessor.cpp that defines four public methods and includes iostream
+// This is a header file for FileProcessor.cpp that defines three public methods and includes iostream
 #ifndef FILEPROCESSOR_H
 #define FILEPROCESSOR_H
 

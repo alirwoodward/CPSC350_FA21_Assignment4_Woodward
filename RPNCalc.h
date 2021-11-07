@@ -2,12 +2,12 @@
 // 2385718
 // alwoodwadr@chapman.edu
 // CPSC 350 Section 03
-// Assignment	3- Game of life
+// Assignment	4- Fun With Stacks
 
 #ifndef RPNCALC_H //header guard
 #define RPNCALC_H //header guard
 
-//header file for the Game class
+//header file for the RPNCalc class
 
 #include <iostream>
 #include <exception>

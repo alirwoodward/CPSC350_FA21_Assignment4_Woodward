@@ -1,3 +1,12 @@
+// Ali Woodward
+// 2385718
+// alwoodwadr@chapman.edu
+// CPSC 350 Section 03
+// Assignment	4- Fun With Stacks
+
+//GenStack.h is a file that contains all functions of a working stack
+//contains methods: push, pop, peek, isEmpty, isFull and getSize
+
 #ifndef GENSTACK_H
 #define GENSTACK_H
 
@@ -64,7 +73,7 @@ type GenStack<type>::pop(){
   //check if empty
   //cout << "get here?" << endl;
   if(isEmpty()){
-    throw runtime_error("stack is empty can NOT pop!!");
+    throw runtime_error("Invalid input. Please check the format of what you have entered and try again.");
   }
   //cout << "what about here" << endl;
   return ll->removeBack();
