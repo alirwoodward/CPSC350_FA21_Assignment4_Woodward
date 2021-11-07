@@ -1,3 +1,5 @@
+USE ONE LATE DAY PLEASE
+
 a. Ali Woodward
 b. 2385718
 c. alwoodward@chapman.edu
@@ -20,4 +22,4 @@ main.cpp
 
 5) Enter RPN or DNA into the command line to specify which program you would like to run. Once you have done this, follow the directions that are printed to input the correct information depending on the program that you are running.
 
-For RPN calculator, the program will give you the option at the end to keep performing calculations, enter 'Y' to continue calculating or anything else to exit the program, these directions are printed to the user every time the option is given so just follow the directions. 
+For RPN calculator, the program will give you the option at the end to keep performing calculations, enter 'Y' to continue calculating or anything else to exit the program, these directions are printed to the user every time the option is given so just follow the directions.
